@@ -1,0 +1,3 @@
+1. linha 11: #para:blue; 
+2. linha 24: Style e função devem sempre estar antes do body do html
+3. linha 25: Função não deve ficar dentro de parenteses, 
